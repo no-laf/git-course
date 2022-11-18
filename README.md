@@ -1,5 +1,5 @@
 # git-course
 for training
 
-##project notes
+### project notes
 
